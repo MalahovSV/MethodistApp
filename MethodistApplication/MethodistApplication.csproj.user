@@ -10,10 +10,22 @@
     <Compile Update="LoginWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\Disciplines.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EditViews\EditDisciplines.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\EditViews\EditEmployeer.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Views\EditViews\EditUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EditViews\Help.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GPD.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Views\Staffs.xaml.cs">
@@ -33,13 +45,28 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Views\DefaultComponentsStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Disciplines.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Views\EditViews\DefaultComponentsStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EditViews\EditDisciplines.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\EditViews\EditEmployeer.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\EditViews\EditUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EditViews\Help.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GPD.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\Staffs.xaml">

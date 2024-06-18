@@ -36,7 +36,7 @@
         <Label Content="Имя"  Grid.Row="4" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
         <Label Content="Отчество"  Grid.Row="5" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
         <Label Content="Почта"  Grid.Row="6" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
-        <Label Content="Должность"  Grid.Row="7" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Label Content="Роль"  Grid.Row="7" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
 
         <TextBox Grid.Column="2" Name="LoginField"  Grid.Row="1" Margin="10,10,10,10" HorizontalContentAlignment="Center" Style="{StaticResource placeHolder}" Tag="Логин"/>
         <TextBox Grid.Column="2" Name="PasswordField" Grid.Row="2" Margin="10,10,10,10" HorizontalContentAlignment="Center" Style="{StaticResource placeHolder}" Tag="Пароль" />

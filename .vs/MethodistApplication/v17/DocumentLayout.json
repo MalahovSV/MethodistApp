@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\editviews\\editemployeer.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\editviews\\editemployeer.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\editviews\\editdisciplines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\editviews\\editdisciplines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\editviews\\edituser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\editviews\\edituser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\disciplines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\disciplines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\editviews\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\editviews\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\editviews\\editdisciplines.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\editviews\\editdisciplines.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\editviews\\editemployeer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\editviews\\editemployeer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\disciplines.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\disciplines.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\staffs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\staffs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\models\\methodologistapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\models\\methodologistapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\editviews\\help.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\editviews\\help.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\gpd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\gpd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\staffs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\staffs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\editviews\\editemployeer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\editviews\\editemployeer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\models\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\models\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\views\\editviews\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\views\\editviews\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|c:\\users\\sergey\\source\\repos\\methodistapplication\\methodistapplication\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C4578E8-317E-4050-8192-6E0C66BE2B65}|MethodistApplication\\MethodistApplication.csproj|solutionrelative:methodistapplication\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,112 +58,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 296,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Staffs.xaml",
-              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Staffs.xaml",
-              "RelativeDocumentMoniker": "MethodistApplication\\Views\\Staffs.xaml",
-              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Staffs.xaml",
-              "RelativeToolTip": "MethodistApplication\\Views\\Staffs.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-12T11:24:26.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Users.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Users.xaml.cs",
-              "RelativeDocumentMoniker": "MethodistApplication\\Views\\Users.xaml.cs",
-              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Users.xaml.cs",
-              "RelativeToolTip": "MethodistApplication\\Views\\Users.xaml.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAAAWAAAA",
+              "DocumentIndex": 1,
+              "Title": "Disciplines.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Disciplines.xaml.cs",
+              "RelativeDocumentMoniker": "MethodistApplication\\Views\\Disciplines.xaml.cs",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Disciplines.xaml.cs",
+              "RelativeToolTip": "MethodistApplication\\Views\\Disciplines.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:19:19.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditEmployeer.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditEmployeer.xaml.cs",
-              "RelativeDocumentMoniker": "MethodistApplication\\Views\\EditViews\\EditEmployeer.xaml.cs",
-              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditEmployeer.xaml.cs",
-              "RelativeToolTip": "MethodistApplication\\Views\\EditViews\\EditEmployeer.xaml.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAowC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:00:44.831Z",
+              "WhenOpened": "2024-06-17T13:16:31.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "EditDisciplines.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditDisciplines.xaml.cs",
+              "RelativeDocumentMoniker": "MethodistApplication\\Views\\EditViews\\EditDisciplines.xaml.cs",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditDisciplines.xaml.cs",
+              "RelativeToolTip": "MethodistApplication\\Views\\EditViews\\EditDisciplines.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:16:14.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditDisciplines.xaml",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditDisciplines.xaml",
+              "RelativeDocumentMoniker": "MethodistApplication\\Views\\EditViews\\EditDisciplines.xaml",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditDisciplines.xaml",
+              "RelativeToolTip": "MethodistApplication\\Views\\EditViews\\EditDisciplines.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T13:09:48.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MethodologistApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Models\\MethodologistApplicationContext.cs",
+              "RelativeDocumentMoniker": "MethodistApplication\\Models\\MethodologistApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Models\\MethodologistApplicationContext.cs",
+              "RelativeToolTip": "MethodistApplication\\Models\\MethodologistApplicationContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:35:44.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "EditEmployeer.xaml",
               "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditEmployeer.xaml",
               "RelativeDocumentMoniker": "MethodistApplication\\Views\\EditViews\\EditEmployeer.xaml",
               "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditEmployeer.xaml",
               "RelativeToolTip": "MethodistApplication\\Views\\EditViews\\EditEmployeer.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-12T05:04:10.549Z"
+              "WhenOpened": "2024-06-16T15:07:30.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Disciplines.xaml",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Disciplines.xaml",
+              "RelativeDocumentMoniker": "MethodistApplication\\Views\\Disciplines.xaml",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Disciplines.xaml",
+              "RelativeToolTip": "MethodistApplication\\Views\\Disciplines.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T16:52:59.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GPD.xaml",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\GPD.xaml",
+              "RelativeDocumentMoniker": "MethodistApplication\\Views\\GPD.xaml",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\GPD.xaml",
+              "RelativeToolTip": "MethodistApplication\\Views\\GPD.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T12:36:08.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Help.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\Help.xaml.cs",
+              "RelativeDocumentMoniker": "MethodistApplication\\Views\\EditViews\\Help.xaml.cs",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\Help.xaml.cs",
+              "RelativeToolTip": "MethodistApplication\\Views\\EditViews\\Help.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:22:35.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MethodistApplication\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\MainWindow.xaml",
+              "RelativeToolTip": "MethodistApplication\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T16:36:41.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Staffs.xaml",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Staffs.xaml",
+              "RelativeDocumentMoniker": "MethodistApplication\\Views\\Staffs.xaml",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Staffs.xaml",
+              "RelativeToolTip": "MethodistApplication\\Views\\Staffs.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T10:03:55.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "MethodistApplication\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\LoginWindow.xaml",
+              "RelativeToolTip": "MethodistApplication\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T16:28:28.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "EditUser.xaml",
               "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditUser.xaml",
               "RelativeDocumentMoniker": "MethodistApplication\\Views\\EditViews\\EditUser.xaml",
               "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditUser.xaml",
               "RelativeToolTip": "MethodistApplication\\Views\\EditViews\\EditUser.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-12T07:38:20.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditUser.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditUser.xaml.cs",
-              "RelativeDocumentMoniker": "MethodistApplication\\Views\\EditViews\\EditUser.xaml.cs",
-              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\EditViews\\EditUser.xaml.cs",
-              "RelativeToolTip": "MethodistApplication\\Views\\EditViews\\EditUser.xaml.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:49:40.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Rank.cs",
-              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Models\\Rank.cs",
-              "RelativeDocumentMoniker": "MethodistApplication\\Models\\Rank.cs",
-              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Models\\Rank.cs",
-              "RelativeToolTip": "MethodistApplication\\Models\\Rank.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:40:39.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Users.xaml",
-              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Users.xaml",
-              "RelativeDocumentMoniker": "MethodistApplication\\Views\\Users.xaml",
-              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Users.xaml",
-              "RelativeToolTip": "MethodistApplication\\Views\\Users.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-12T07:38:14.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Staffs.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Staffs.xaml.cs",
-              "RelativeDocumentMoniker": "MethodistApplication\\Views\\Staffs.xaml.cs",
-              "ToolTip": "C:\\Users\\Sergey\\source\\repos\\MethodistApplication\\MethodistApplication\\Views\\Staffs.xaml.cs",
-              "RelativeToolTip": "MethodistApplication\\Views\\Staffs.xaml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAowCkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:07:56.953Z"
+              "WhenOpened": "2024-06-16T15:07:27.747Z",
+              "EditorCaption": ""
             }
           ]
         }

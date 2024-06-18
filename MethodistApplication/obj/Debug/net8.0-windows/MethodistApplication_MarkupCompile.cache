@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Sergey\source\repos\MethodistApplication\MethodistApplication\App.xaml
-8-656827861
+13-1752165339
 
-141583861758
-222216144556
-DefaultComponentsStyle.xaml;LoginWindow.xaml;MainWindow.xaml;Views\EditViews\DefaultComponentsStyle.xaml;Views\EditViews\EditEmployeer.xaml;Views\EditViews\EditUser.xaml;Views\Staffs.xaml;Views\Users.xaml;
+18-947431818
+245-596341987
+DefaultComponentsStyle.xaml;LoginWindow.xaml;MainWindow.xaml;Views\DefaultComponentsStyle.xaml;Views\Disciplines.xaml;Views\EditViews\DefaultComponentsStyle.xaml;Views\EditViews\EditDisciplines.xaml;Views\EditViews\EditEmployeer.xaml;Views\EditViews\EditUser.xaml;Views\EditViews\Help.xaml;Views\GPD.xaml;Views\Staffs.xaml;Views\Users.xaml;
 
 False
 

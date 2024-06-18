@@ -1,5 +1,6 @@
 ﻿using MethodistApplication.Views;
 using MethodistApplication.Views.EditViews;
+using Microsoft.Windows.Themes;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
@@ -77,40 +78,37 @@ namespace MethodistApplication
 
         private void StaffButton_Checked(object sender, RoutedEventArgs e)
         {
-            offToggleButtons(StaffButton);
-            Staffs staffs = new Staffs();
-            ToolsGrid.Children.Clear();
-            ToolsGrid.Children.Add(staffs);
-            Grid.SetRow(staffs, 1);
-            Grid.SetColumn(staffs, 1);
+            SetUserControl(new Staffs(), StaffButton);
 
         }
 
         private void UsersButton_Checked(object sender, RoutedEventArgs e)
         {
-            offToggleButtons(UsersButton);
-            EditUser editUser = new EditUser(0);
-            Views.Users users = new Views.Users();
-            ToolsGrid.Children.Clear();
-            ToolsGrid.Children.Add(users);
-            Grid.SetRow(users, 1);
-            Grid.SetColumn(users, 1);
-            //editUser.ShowDialog();
+            SetUserControl(new Users(), UsersButton);
         }
 
         private void HelpButton_Checked(object sender, RoutedEventArgs e)
         {
-            offToggleButtons(HelpButton);
+            SetUserControl(new Help(), HelpButton);
         }
 
         private void GpdButton_Checked(object sender, RoutedEventArgs e)
         {
-            offToggleButtons(GpdButton);
+            SetUserControl(new GPD(), GpdButton);
         }
 
         private void HoursesButton_Checked(object sender, RoutedEventArgs e)
         {
-            offToggleButtons(HoursesButton);
+            SetUserControl(new Disciplines(), HoursesButton);
+        }
+
+        private void SetUserControl(UserControl uc, ToggleButton currentButton)
+        {
+            offToggleButtons(currentButton);
+            ToolsGrid.Children.Clear();
+            ToolsGrid.Children.Add(uc);
+            Grid.SetRow(uc, 1);
+            Grid.SetColumn(uc, 1);
         }
     }
 }
